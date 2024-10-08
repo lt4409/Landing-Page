@@ -188,3 +188,20 @@ h1 {
     display: flex;
     flex-direction: column;
 }
+
+.downer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 700px;
+}
+
+.downer-container {
+    display: flex;
+    justify-content: center;
+}
